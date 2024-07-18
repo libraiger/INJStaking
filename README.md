@@ -62,6 +62,3 @@ Snapshots have the following properties:
 
 ### Abuse prevention
 Upon the initial staking of an NFT to the contract, the NFT will be "frozen" for a duration of up to 2 cycles before being allowed to be unstaked. As well, an NFT cannot be staked again during the same cycle after unstaking.
-
-
-
